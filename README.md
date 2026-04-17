@@ -22,10 +22,10 @@ To understand:
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Page
-![Overview](intro_page.png)
+![Overview](images/intro_page.png)
 
 ### 🔹 Analysis Dashboard
-![Analysis](analysis_page.png)
+![Analysis](images/analysis_page.png)
 
 ---
 

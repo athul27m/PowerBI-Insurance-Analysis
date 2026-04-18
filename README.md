@@ -50,8 +50,8 @@ I tried to answer a few key questions:
 
 ## Files in this Repo
 
-- `EIC_Insurance-analysis.pbix` → Power BI file  
-- `images/` → Screenshots of the dashboard  
+- `EIC_Insurance-analysis.pbix` -> Power BI file  
+- `images/` -> Screenshots of the dashboard  
 
 ---
 

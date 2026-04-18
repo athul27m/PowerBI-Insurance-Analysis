@@ -1,67 +1,66 @@
 # EIC Insurance Collapse: What Went Wrong?
 
-## 📊 Project Overview
+## Project Overview
 
-EIC was a leading motor insurance provider between 2014 and 2018.  
-Despite strong business volume, the company experienced sustained financial losses and shut down in 2019.
+EIC was a motor insurance company operating between 2014 and 2018.  
+Even though the company had strong business volume, it consistently made losses and eventually shut down in 2019.
 
-This project analyzes the key drivers behind these losses using Power BI.
-
----
-
-## 🎯 Objective
-
-To understand:
-- When losses occurred  
-- What caused them  
-- Which segments were responsible  
-- Why profitability declined  
+In this project, I used Power BI to understand what went wrong by analyzing claims, premium, and risk patterns.
 
 ---
 
-## 📸 Dashboard Preview
+## What I Wanted to Find
 
-### 🔹 Overview Page
+I tried to answer a few key questions:
+
+- When did the losses start and peak?
+- What was causing those losses?
+- Which segments were responsible?
+- Why wasn’t the company profitable?
+
+---
+
+## Dashboard Preview
+
+### Overview Page
 ![Overview](images/intro_page.png)
 
-### 🔹 Analysis Dashboard
+### Analysis Dashboard
 ![Analysis](images/analysis_page.png)
 
 ---
 
-## 🔍 Key Insights
+## Key Takeaways
 
-- Losses occurred consistently from **2014–2017**, peaking in 2015  
-- Claims exceeded premium, leading to sustained losses  
-- **Truck and Pick-up segments** were the primary loss drivers  
-- Low premium coverage (<100%) indicates underpricing  
-- Profitability improved in 2018, but risks remain  
+- The company was making losses almost every year from 2014 to 2017  
+- Claims were consistently higher than premium, which caused the losses  
+- Truck and Pick-up categories were the biggest contributors  
+- Many segments had poor premium coverage (below 100%), which suggests underpricing  
+- There was some recovery in 2018, but the overall damage was already significant  
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Power BI  
-- DAX (Data Analysis Expressions)  
-- Data Modeling  
+- DAX  
+- Basic data modeling  
 
 ---
 
-## 📁 Files
+## Files in this Repo
 
 - `dashboard/eic_dashboard.pbix` → Power BI file  
-- `images/` → Dashboard screenshots  
+- `images/` → Screenshots of the dashboard  
 
 ---
 
-## 🚀 How to Use
+## How to View
 
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Explore the dashboard  
+Download the `.pbix` file and open it in Power BI Desktop to explore the dashboard.
 
 ---
 
-## 📌 Author
+## About Me
 
-Your Name
+(Add your name here)

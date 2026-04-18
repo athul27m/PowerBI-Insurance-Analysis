@@ -50,7 +50,7 @@ I tried to answer a few key questions:
 
 ## Files in this Repo
 
-- `dashboard/eic_dashboard.pbix` → Power BI file  
+- `EIC_Insurance-analysis.pbix` → Power BI file  
 - `images/` → Screenshots of the dashboard  
 
 ---
@@ -63,4 +63,4 @@ Download the `.pbix` file and open it in Power BI Desktop to explore the dashboa
 
 ## About Me
 
-(Add your name here)
+Athul

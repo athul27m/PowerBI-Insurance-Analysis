@@ -63,6 +63,6 @@ Download the `.pbix` file and open it in Power BI Desktop to explore the dashboa
 
 ## About Me
 
-Athul Murali
+Athul Murali.
 [LinkedIn](www.linkedin.com/in/athul-murali)
 
